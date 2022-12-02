@@ -1,0 +1,11 @@
+RandomForestClassifier
+0.885
+0.959
+0.81
+
+dtypes: object(1)
+memory usage: 6.1+ KB
+
+Accuracy: 0.296
+Precision: 0.857
+F1 Score: 0.852
